@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 This is Tasmia Alamgir :D 
+
+## I'm a student. Currently studying Software Engineering at SUST(2016-17 batch). Also working as a full-time intern at Pathao Ltd.
+
+- 📫 How to reach me: tasmia22@student.sust.edu
+
 
 <!--
 **tasmia2016831022/tasmia2016831022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
