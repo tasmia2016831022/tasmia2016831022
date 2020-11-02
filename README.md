@@ -1,8 +1,8 @@
 ### Hi there 👋 This is Tasmia Alamgir :D 
 
-## I'm a student. Currently studying Software Engineering at SUST(2016-17 batch). Also working as a full-time intern at Pathao Ltd.
+## I'm a student. Currently studying Software Engineering at SUST(2016-17 batch). Also working as a Software Engineer (I) at Pathao Ltd.
 
-- 📫 How to reach me: tasmia22@student.sust.edu
+- 📫 How to reach me: tasmia22@student.sust.edu, tasmia.alamgir@pathao.com
 
 
 <!--
