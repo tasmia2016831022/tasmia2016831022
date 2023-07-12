@@ -2,7 +2,7 @@
 
 ## I'm a student. Currently studying Software Engineering at SUST(2016-17 batch). Also working as a Software Engineer (I) at Pathao Ltd.
 
-- 📫 How to reach me: tasmia22@student.sust.edu, tasmia.alamgir@pathao.com
+- 📫 How to reach me: alamgirtasmia@gmail.com
 
 
 <!--
