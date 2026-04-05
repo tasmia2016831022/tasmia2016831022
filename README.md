@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Data Science in genomics data**
 
-- 🌱 I’m currently learning **Machine Learning, Genomic Data Analysis and Computational biologyo**
+- 🌱 I’m currently learning **Machine Learning, Genomic Data Analysis and Computational biology**
 
 - 🤝 I’m looking for help with **Bio-informatics**
 
-- 📫 How to reach me **alamgirtasmia@gmail.com**
+- 📫 How to reach me **alamgirtasmia@gmail.com, talamgir@ur.rochester.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
