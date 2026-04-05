@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tasmia ALamgir</h1>
+<h1 align="center">Hi 👋, I'm Tasmia Alamgir</h1>
 <h3 align="center">An software engineer and graduate student from Dhaka, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmia2016831022&label=Profile%20views&color=0e75b6&style=flat" alt="tasmia2016831022" /> </p>
